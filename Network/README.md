@@ -42,5 +42,6 @@ Networking involves the practice of designing, implementing, managing, and secur
 ## Resources
 
 - For Deeper Understanding have a look at CCNA:Routing and Switching (DOWNLOAD THE ZIP)
+- Course Video by DAVID BOMBAL https://youtube.com/playlist?list=PLhfrWIlLOoKPc2RecyiM_A9nf3fUU3e6g&feature=shared
 
 

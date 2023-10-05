@@ -6,7 +6,7 @@ Welcome to the Pre-Hacking Study Materials repository! This repository is dedica
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Topics-covered](#Topics-covered)
+- [Topics-covered](#topics-covered)
 
 ## Introduction
 
@@ -22,7 +22,7 @@ To start your journey into pre-hacking:
 
 
 
-## Topics
+## Topics-covered
 
 
 1. **Networking**

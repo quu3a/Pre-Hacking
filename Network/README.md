@@ -15,6 +15,11 @@ This repository provides an overview of networking concepts and their relevance 
 
 Networking forms the backbone of modern IT infrastructure, enabling communication and data transfer across various devices and systems. In the realm of cybersecurity, a solid understanding of networking principles is vital for effectively securing networks and mitigating potential threats.
 
+## Network
+A network is a collection of interconnected devices, systems, or entities that communicate and share resources with each other. These devices can range from computers, servers, routers, switches, printers, mobile devices, and more. The purpose of a network is to facilitate efficient communication and resource sharing among these devices.
+
+Networking involves the practice of designing, implementing, managing, and securing these interconnected systems to ensure smooth and reliable data transmission. Networks can be established within a small geographical area, such as a home or office (Local Area Network - LAN), or over a larger geographic area, which could be a city, country, or even worldwide (Wide Area Network - WAN).
+
 ## Core Networking Concepts
 
 - **Protocol**: Understanding communication protocols is fundamental. Key protocols like TCP/IP, UDP, ICMP, etc., play critical roles in networking and security.

@@ -33,4 +33,6 @@ To start your journey into pre-hacking:
 
 4. **Ethical-Hacking**
 
-2. **Web-Application**
+5. **Web-Application Pentesting**
+
+6. **Network-Pentesting**

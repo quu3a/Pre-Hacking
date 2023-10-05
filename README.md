@@ -25,7 +25,7 @@ To start your journey into pre-hacking:
 ## Topics-covered
 
 
-1. **Networking**
+1. **Network**
 
 2. Linux-Fundementals
 

@@ -29,10 +29,8 @@ To start your journey into pre-hacking:
 
 2. Linux-Fundementals
 
-3. Windows-Fundementals 
+3. **Ethical-Hacking**
 
-4. **Ethical-Hacking**
+4. **Web-Application Pentesting**
 
-5. **Web-Application Pentesting**
-
-6. **Network-Pentesting**
+5. **Network-Pentesting**
